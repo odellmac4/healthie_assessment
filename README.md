@@ -136,7 +136,11 @@ Then, call the model methods as needed.
 
 ## 📝 Summary of Directories and Files
 scripts/prime_number_finder.rb: Prime number finder script.
+
 classes/: Contains animal and drink classes.
+
 drivers/animal_driver.rb: Demonstrates class functionality.
+
 app/models/: Contains the models, including ClientProvider, with enum usage.
+
 Feel free to reach out if you have any questions or need further clarification! 😊
